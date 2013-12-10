@@ -1,0 +1,3 @@
+mpicc maitre.c -o maitre
+mpicc coordinator.c -o coordinator
+mpicc slave.c -o slave
